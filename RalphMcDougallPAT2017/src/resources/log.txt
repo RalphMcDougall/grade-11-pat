@@ -1,0 +1,211 @@
+<2018/07/01 22:19:14> INFO : Starting to load DBBridge
+<2018/07/01 22:19:15> INFO : Connection successful
+<2018/07/01 22:19:15> INFO : DBBridge loading completed
+<2018/07/01 22:19:16> INFO : "High Scores" button pressed
+<2018/07/01 22:19:16> INFO : Performing database query: SELECT PlayerName, Score FROM tblHighScores WHERE Difficulty = 0 ORDER BY Score DESC
+<2018/07/01 22:19:17> INFO : "Go Back" button pressed
+<2018/07/01 22:19:18> INFO : "Help" button pressed
+<2018/07/01 22:19:19> INFO : "Go Back" button pressed
+<2018/07/01 22:19:20> INFO : "Start" button pressed
+<2018/07/01 22:19:23> INFO : "Continue" button pressed
+<2018/07/01 22:19:23> INFO : Starting game for (asdfasdf : 0)
+<2018/07/01 22:19:25> INFO : Clearing all particles
+<2018/07/01 22:19:25> INFO : All particles cleared
+<2018/07/01 22:19:25> INFO : Clearing all entities
+<2018/07/01 22:19:25> INFO : All entities cleared
+<2018/07/01 22:19:25> INFO : Starting to load ImageHandler
+<2018/07/01 22:19:25> INFO : Getting image at (0, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 0) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 1) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 2) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 3) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 4) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 5) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 6) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 7) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 8) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (0, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (1, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (2, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (3, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (4, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (5, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (6, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (7, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (8, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : Getting image at (9, 9) on texture sheet
+<2018/07/01 22:19:25> INFO : ImageHandler loading completed
+<2018/07/01 22:19:25> INFO : Starting to load map
+<2018/07/01 22:19:25> INFO : Starting to load map file
+<2018/07/01 22:19:25> INFO : Map file loading completed
+<2018/07/01 22:19:25> INFO : Starting to load map row: 0
+<2018/07/01 22:19:25> INFO : Querying database for tile described by character '#'
+<2018/07/01 22:19:25> INFO : Performing database query: SELECT * FROM tblTiles WHERE MapSymbol = '#'
+<2018/07/01 22:19:25> INFO : Query retrieved
+<2018/07/01 22:19:25> INFO : Starting to load map row: 1
+<2018/07/01 22:19:25> INFO : Querying database for tile described by character '.'
+<2018/07/01 22:19:25> INFO : Performing database query: SELECT * FROM tblTiles WHERE MapSymbol = '.'
+<2018/07/01 22:19:25> INFO : Query retrieved
+<2018/07/01 22:19:25> INFO : Starting to load map row: 2
+<2018/07/01 22:19:25> INFO : Starting to load map row: 3
+<2018/07/01 22:19:25> INFO : Starting to load map row: 4
+<2018/07/01 22:19:25> INFO : Starting to load map row: 5
+<2018/07/01 22:19:25> INFO : Starting to load map row: 6
+<2018/07/01 22:19:25> INFO : Starting to load map row: 7
+<2018/07/01 22:19:25> INFO : Starting to load map row: 8
+<2018/07/01 22:19:25> INFO : Starting to load map row: 9
+<2018/07/01 22:19:25> INFO : Starting to load map row: 10
+<2018/07/01 22:19:25> INFO : Starting to load map row: 11
+<2018/07/01 22:19:25> INFO : Starting to load map row: 12
+<2018/07/01 22:19:25> INFO : Starting to load map row: 13
+<2018/07/01 22:19:25> INFO : Starting to load map row: 14
+<2018/07/01 22:19:25> INFO : Starting to load map row: 15
+<2018/07/01 22:19:25> INFO : Starting to load map row: 16
+<2018/07/01 22:19:25> INFO : Starting to load map row: 17
+<2018/07/01 22:19:25> INFO : Starting to load map row: 18
+<2018/07/01 22:19:25> INFO : Starting to load map row: 19
+<2018/07/01 22:19:25> INFO : Starting to load map row: 20
+<2018/07/01 22:19:25> INFO : Starting to load map row: 21
+<2018/07/01 22:19:25> INFO : Starting to load map row: 22
+<2018/07/01 22:19:25> INFO : Starting to load map row: 23
+<2018/07/01 22:19:25> INFO : Starting to load map row: 24
+<2018/07/01 22:19:25> INFO : Starting to load map row: 25
+<2018/07/01 22:19:25> INFO : Starting to load map row: 26
+<2018/07/01 22:19:25> INFO : Starting to load map row: 27
+<2018/07/01 22:19:25> INFO : Starting to load map row: 28
+<2018/07/01 22:19:25> INFO : Starting to load map row: 29
+<2018/07/01 22:19:25> INFO : Starting to load map row: 30
+<2018/07/01 22:19:25> INFO : Starting to load map row: 31
+<2018/07/01 22:19:25> INFO : Starting to load map row: 32
+<2018/07/01 22:19:25> INFO : Starting to load map row: 33
+<2018/07/01 22:19:25> INFO : Starting to load map row: 34
+<2018/07/01 22:19:25> INFO : Starting to load map row: 35
+<2018/07/01 22:19:25> INFO : Starting to load map row: 36
+<2018/07/01 22:19:25> INFO : Starting to load map row: 37
+<2018/07/01 22:19:25> INFO : Starting to load map row: 38
+<2018/07/01 22:19:25> INFO : Starting to load map row: 39
+<2018/07/01 22:19:25> INFO : Starting to load map row: 40
+<2018/07/01 22:19:25> INFO : Starting to load map row: 41
+<2018/07/01 22:19:25> INFO : Starting to load map row: 42
+<2018/07/01 22:19:25> INFO : Starting to load map row: 43
+<2018/07/01 22:19:25> INFO : Starting to load map row: 44
+<2018/07/01 22:19:25> INFO : Starting to load map row: 45
+<2018/07/01 22:19:25> INFO : Starting to load map row: 46
+<2018/07/01 22:19:25> INFO : Starting to load map row: 47
+<2018/07/01 22:19:25> INFO : Starting to load map row: 48
+<2018/07/01 22:19:25> INFO : Starting to load map row: 49
+<2018/07/01 22:19:25> INFO : Map loading completed
+<2018/07/01 22:19:25> INFO : Performing database query: SELECT * FROM tblCharacters WHERE CharacterName = 'Player'
+<2018/07/01 22:19:25> INFO : Adding pellet at (12, 38) with attribute = 2 and value = 40
+<2018/07/01 22:19:25> INFO : Increasing spawn rate
+<2018/07/01 22:19:25> INFO : New time between spawns: 950
+<2018/07/01 22:19:25> INFO : Performing database query: SELECT * FROM tblCharacters WHERE CharacterName = 'Enemy'
+<2018/07/01 22:19:25> INFO : ------------------------
+<2018/07/01 22:19:25> INFO : Number of entities: 2503
+<2018/07/01 22:19:25> INFO : Number of projectiles: 0
+<2018/07/01 22:19:25> INFO : Number of enemies: 1
+<2018/07/01 22:19:25> INFO : Number of particles: 0
+<2018/07/01 22:19:30> INFO : Increasing spawn rate
+<2018/07/01 22:19:30> INFO : New time between spawns: 902
+<2018/07/01 22:19:30> INFO : ------------------------
+<2018/07/01 22:19:30> INFO : Number of entities: 2508
+<2018/07/01 22:19:30> INFO : Number of projectiles: 0
+<2018/07/01 22:19:30> INFO : Number of enemies: 6
+<2018/07/01 22:19:30> INFO : Number of particles: 0
+<2018/07/01 22:19:34> INFO : Player died
+<2018/07/01 22:19:35> INFO : Adding score for player 'asdfasdf' to tblHighScores with score 18 and difficulty 0
+<2018/07/01 22:19:35> INFO : Performing database update: INSERT INTO tblHighScores (PlayerName, Score, Difficulty) VALUES ('asdfasdf', 18, 0)
+<2018/07/01 22:19:35> INFO : Score successfully recorded
+<2018/07/01 22:19:35> INFO : Clearing all particles
+<2018/07/01 22:19:35> INFO : All particles cleared
+<2018/07/01 22:19:35> INFO : Clearing all entities
+<2018/07/01 22:19:35> INFO : All entities cleared
+<2018/07/01 22:19:35> INFO : Closing game
+<2018/07/01 22:19:35> INFO : Closing GUIPlayerSetup
+<2018/07/01 22:19:36> INFO : Closing GUIPlayerSetup
+<2018/07/01 22:19:39> INFO : "High Scores" button pressed
+<2018/07/01 22:19:39> INFO : Performing database query: SELECT PlayerName, Score FROM tblHighScores WHERE Difficulty = 0 ORDER BY Score DESC
+<2018/07/01 22:19:40> INFO : Performing database query: SELECT PlayerName, Score FROM tblHighScores WHERE Difficulty = 1 ORDER BY Score DESC
+<2018/07/01 22:19:41> INFO : Performing database query: SELECT PlayerName, Score FROM tblHighScores WHERE Difficulty = 0 ORDER BY Score DESC
+<2018/07/01 22:19:42> INFO : "Go Back" button pressed
+<2018/07/01 22:19:42> INFO : "Exit" button pressed
